@@ -2,6 +2,7 @@ use crs_db;
 /*
 	base query for
 	table: crsdb2.informix.roc_ciu_shldr (CIU) 18
+	version by siha
 */
 
 -- System User and Default Date
